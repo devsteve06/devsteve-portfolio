@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Rafiki Social App",
+    "description": "A full-stack social media platform where users can share posts, connect, and interact in real time.",
+    "tech": ["React", "Node.js", "MongoDB", "TailwindCSS"],
+    "category": "Web Apps",
+    "link": "https://example.com/rafiki",
+    "image": "/images/rafiki.png"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "A modern personal portfolio built with React, TailwindCSS, and Framer Motion.",
+    "tech": ["React", "Framer Motion", "TailwindCSS"],
+    "category": "Web Apps",
+    "link": "https://example.com/portfolio",
+    "image": "/images/portfolio.png"
+  },
+  {
+    "title": "Weather App",
+    "description": "A weather forecasting app with location detection and dynamic backgrounds.",
+    "tech": ["React", "WeatherAPI", "Geolocation"],
+    "category": "Web Apps",
+    "link": "https://example.com/weather",
+    "image": "/images/weather.png"
+  },
+  {
+    "title": "UI Dashboard Concept",
+    "description": "A clean and elegant UI dashboard mockup created to explore visual hierarchy and layout design.",
+    "tech": ["Figma", "UI/UX Design"],
+    "category": "Design Projects",
+    "link": "https://example.com/dashboard",
+    "image": "/images/dashboard.png"
+  }
+]
